@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/silly-minesweeper-online/precache-manifest.28f657ab951d1df6f1e5349e9cea6401.js"
+  "/silly-minesweeper/precache-manifest.422171e801bb0dd24ebf421b5ac3f2a2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/silly-minesweeper-online/index.html", {
+workbox.routing.registerNavigationRoute("/silly-minesweeper/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

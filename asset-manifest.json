@@ -1,14 +1,14 @@
 {
-  "main.css": "/silly-minesweeper-online/static/css/main.b82ced50.chunk.css",
-  "main.js": "/silly-minesweeper-online/static/js/main.d758084e.chunk.js",
-  "main.js.map": "/silly-minesweeper-online/static/js/main.d758084e.chunk.js.map",
-  "runtime~main.js": "/silly-minesweeper-online/static/js/runtime~main.0f174bd7.js",
-  "runtime~main.js.map": "/silly-minesweeper-online/static/js/runtime~main.0f174bd7.js.map",
-  "static/js/2.5ad98a77.chunk.js": "/silly-minesweeper-online/static/js/2.5ad98a77.chunk.js",
-  "static/js/2.5ad98a77.chunk.js.map": "/silly-minesweeper-online/static/js/2.5ad98a77.chunk.js.map",
-  "index.html": "/silly-minesweeper-online/index.html",
-  "precache-manifest.28f657ab951d1df6f1e5349e9cea6401.js": "/silly-minesweeper-online/precache-manifest.28f657ab951d1df6f1e5349e9cea6401.js",
-  "service-worker.js": "/silly-minesweeper-online/service-worker.js",
-  "static/css/main.b82ced50.chunk.css.map": "/silly-minesweeper-online/static/css/main.b82ced50.chunk.css.map",
-  "static/media/index.css": "/silly-minesweeper-online/static/media/thuglife.3a1a6dc1.png"
+  "main.css": "/silly-minesweeper/static/css/main.30410adc.chunk.css",
+  "main.js": "/silly-minesweeper/static/js/main.43f8fbc1.chunk.js",
+  "main.js.map": "/silly-minesweeper/static/js/main.43f8fbc1.chunk.js.map",
+  "runtime~main.js": "/silly-minesweeper/static/js/runtime~main.9da34b8c.js",
+  "runtime~main.js.map": "/silly-minesweeper/static/js/runtime~main.9da34b8c.js.map",
+  "static/js/2.5ad98a77.chunk.js": "/silly-minesweeper/static/js/2.5ad98a77.chunk.js",
+  "static/js/2.5ad98a77.chunk.js.map": "/silly-minesweeper/static/js/2.5ad98a77.chunk.js.map",
+  "index.html": "/silly-minesweeper/index.html",
+  "precache-manifest.422171e801bb0dd24ebf421b5ac3f2a2.js": "/silly-minesweeper/precache-manifest.422171e801bb0dd24ebf421b5ac3f2a2.js",
+  "service-worker.js": "/silly-minesweeper/service-worker.js",
+  "static/css/main.30410adc.chunk.css.map": "/silly-minesweeper/static/css/main.30410adc.chunk.css.map",
+  "static/media/index.css": "/silly-minesweeper/static/media/thuglife.3a1a6dc1.png"
 }
